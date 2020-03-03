@@ -6783,4 +6783,8 @@ h6 {
   font-size: 12px;
 }
 
+.portfolio_image_area img {
+  border: solid 1px grey;
+}
+
 /*# sourceMappingURL=style.css.map */
